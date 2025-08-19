@@ -1,0 +1,37 @@
+Sure! Here's a **short and clear version** of **lab configuration steps**:
+
+---
+
+### 🔧 Short Lab Configuration Steps
+
+1. **Define Lab Objective**
+
+   * State what the lab is intended to teach or demonstrate.
+
+2. **List Requirements**
+
+   * Include OS, tools, and hardware/software dependencies.
+
+3. **Install Dependencies**
+
+   * Set up necessary packages, libraries, or software.
+
+4. **Set Up Environment**
+
+   * Configure paths, environment variables, and directory structure.
+
+5. **Configure Services**
+
+   * Set up databases, servers, or any required services.
+
+6. **Add Test Data (if needed)**
+
+   * Include sample files or data for practice or testing.
+
+7. **Provide Run Instructions**
+
+   * Steps to execute the lab or launch services.
+
+8. **Include Cleanup Steps**
+
+   * Instructions to reset or remove the setup after use. setup
