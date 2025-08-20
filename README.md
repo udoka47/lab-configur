@@ -1,1 +1,1 @@
-# lab-configur
+# lab-configuration
